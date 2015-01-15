@@ -1,0 +1,29 @@
+{
+  "name": "list-of-programming-languages",
+  "version": "1.0.0",
+  "description": "The Wilkipedia page \"List of programming languages\" converted into JSON-LD",
+  "main": "index.js",
+  "scripts": {
+    "build": "node data/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/standard-analytics/list-of-programming-languages.git"
+  },
+  "keywords": [
+    "programming",
+    "languages",
+    "data",
+    "JSON-LD"
+  ],
+  "author": "Sebastien Ballesteros",
+  "license": "Apache-v2",
+  "bugs": {
+    "url": "https://github.com/standard-analytics/list-of-programming-languages/issues"
+  },
+  "homepage": "https://github.com/standard-analytics/list-of-programming-languages",
+  "devDependencies": {
+    "cheerio": "^0.18.0",
+    "request": "^2.51.0"
+  }
+}
