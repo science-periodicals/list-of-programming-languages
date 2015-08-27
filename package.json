@@ -1,7 +1,7 @@
 {
   "name": "list-of-programming-languages",
-  "version": "1.0.0",
-  "description": "The Wilkipedia page \"List of programming languages\" converted into JSON-LD",
+  "version": "1.0.1",
+  "description": "The Wikipedia page \"List of programming languages\" converted into JSON-LD",
   "main": "index.js",
   "scripts": {
     "build": "node data/index.js"
@@ -23,7 +23,12 @@
   },
   "homepage": "https://github.com/standard-analytics/list-of-programming-languages",
   "devDependencies": {
+    "browserify": "^11.0.1",
     "cheerio": "^0.18.0",
-    "request": "^2.51.0"
+    "request": "^2.51.0",
+    "brfs": "^1.4.1"
+  },
+  "browserify": {
+    "transform": [ "brfs" ]
   }
 }

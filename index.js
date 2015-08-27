@@ -1,4 +1,8 @@
-var fs = require('fs'),
-    path = require('path');
+var path = require('path');
+var fs = require('fs');
 
-module.exports = JSON.parse(fs.readFileSync(path.join('data', 'data.jsonld'),'utf8'));
+var data = fs.readFileSync(path.join(__dirname, 'data', 'data.jsonld'), 'utf8');
+
+var jsonld = JSON.parse(data);
+
+module.exports = jsonld;
