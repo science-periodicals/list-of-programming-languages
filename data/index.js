@@ -34,6 +34,7 @@ request.get(lplUrl, function(err, resp, body) {
       'position': i,
       item: {
         '@id':url.resolve(plplUrl.protocol + '//' + plplUrl.host, $a.attr('href')),
+        '@type': 'Language',
         name: $a.text()
       }
     });
