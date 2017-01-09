@@ -1,14 +1,14 @@
 {
   "name": "list-of-programming-languages",
-  "version": "1.1.1",
+  "version": "2.0.0",
   "description": "The Wikipedia page \"List of programming languages\" converted into JSON-LD",
   "main": "index.js",
   "scripts": {
-    "build": "node data/index.js"
+    "build": "(cd data && node index.js)"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/standard-analytics/list-of-programming-languages.git"
+    "url": "https://github.com/scienceai/list-of-programming-languages.git"
   },
   "keywords": [
     "programming",
@@ -19,16 +19,18 @@
   "author": "Sebastien Ballesteros",
   "license": "Apache-v2",
   "bugs": {
-    "url": "https://github.com/standard-analytics/list-of-programming-languages/issues"
+    "url": "https://github.com/scienceai/list-of-programming-languages/issues"
   },
-  "homepage": "https://github.com/standard-analytics/list-of-programming-languages",
+  "homepage": "https://github.com/scienceai/list-of-programming-languages",
   "devDependencies": {
-    "browserify": "^11.0.1",
-    "cheerio": "^0.18.0",
-    "request": "^2.51.0",
-    "brfs": "^1.4.1"
+    "brfs": "^1.4.3",
+    "browserify": "^13.3.0",
+    "cheerio": "^0.22.0",
+    "request": "^2.79.0"
   },
   "browserify": {
-    "transform": [ "brfs" ]
+    "transform": [
+      "brfs"
+    ]
   }
 }

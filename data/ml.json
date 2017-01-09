@@ -1,0 +1,54 @@
+[
+  {
+    "name": "XML",
+    "url": "https://en.wikipedia.org/wiki/XML"
+  },
+  {
+    "name": "HTML",
+    "url": "https://en.wikipedia.org/wiki/HTML"
+  },
+  {
+    "name": "SVG",
+    "url": "https://en.wikipedia.org/wiki/Scalable_Vector_Graphics"
+  },
+  {
+    "name": "MathML",
+    "url": "https://en.wikipedia.org/wiki/MathML"
+  },
+  {
+    "name": "JSON",
+    "url": "https://en.wikipedia.org/wiki/JSON"
+  },
+  {
+    "name": "JSON-LD",
+    "url": "https://en.wikipedia.org/wiki/JSON-LD"
+  },
+  {
+    "name": "SGML",
+    "url": "https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language"
+  },
+  {
+    "name": "Markdown",
+    "url": "https://en.wikipedia.org/wiki/Markdown"
+  },
+  {
+    "name": "Turtle",
+    "url": "https://en.wikipedia.org/wiki/Turtle_(syntax)"
+  },
+  {
+    "name": "N3",
+    "url": "https://en.wikipedia.org/wiki/Notation3"
+  },
+  {
+    "name": "N-Triples",
+    "url": "https://en.wikipedia.org/wiki/N-Triples"
+  },
+  {
+    "name": "N-Quads",
+    "url": "https://www.w3.org/TR/n-quads/"
+  },
+  {
+    "name": "YAML",
+    "url": "https://en.wikipedia.org/wiki/YAML"
+  }
+]

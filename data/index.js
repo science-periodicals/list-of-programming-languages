@@ -1,7 +1,8 @@
-var request = require('request'),
-    fs = require('fs'),
-    url = require('url'),
-    cheerio = require('cheerio');
+var request = require('request');
+var fs = require('fs');
+var url = require('url');
+var ml = require('./ml');
+var cheerio = require('cheerio');
 
 var packageJson = require('../package');
 
@@ -27,17 +28,31 @@ request.get(lplUrl, function(err, resp, body) {
     'itemListElement': [],
   };
 
-  $('h2 ~ table li a').each(function(i) {
+  $('h2 ~ .div-col li a').each(function(i) {
     var $a = $(this);
     list.itemListElement.push({
       "@type": 'ListItem',
-      'position': i,
       item: {
-        '@id':url.resolve(plplUrl.protocol + '//' + plplUrl.host, $a.attr('href')),
-        '@type': 'Language',
+        '@id': url.resolve(plplUrl.protocol + '//' + plplUrl.host, $a.attr('href')),
+        '@type': 'ComputerLanguage',
         name: $a.text()
       }
     });
+  });
+
+  list.itemListElement = list.itemListElement.concat(ml.map(function(item) {
+    return {
+      "@type": 'ListItem',
+      item: {
+        '@id': item.url,
+        '@type': 'ComputerLanguage',
+        name: item.name
+      }
+    };
+  })).sort(function(a, b) {
+    return a.item.name.localeCompare(b.item.name);
+  }).map(function(itemListElement, i) {
+    return Object.assign(itemListElement, { position: i });
   });
 
   list.numberOfItems = list.itemListElement.length;
