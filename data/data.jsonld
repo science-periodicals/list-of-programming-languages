@@ -7,10 +7,10 @@
   "inLanguage": "English",
   "description": "The aim of this list of programming languages is to include all notable programming languages in existence, both those in current use and historical ones, in alphabetical order, except for dialects of BASIC and esoteric programming languages.",
   "version": "2.0.0",
-  "dateModified": "2017-01-09T23:39:03.731Z",
+  "dateModified": "2017-01-10T03:29:18.732Z",
   "isBasedOnUrl": "http://en.wikipedia.org/wiki/List_of_programming_languages",
   "itemListOrder": "schema:ItemListOrderAscending",
-  "numberOfItems": 732,
+  "numberOfItems": 718,
   "itemListElement": [
     {
       "@type": "ListItem",
@@ -551,15 +551,6 @@
         "name": "bash"
       },
       "position": 59
-    },
-    {
-      "@type": "ListItem",
-      "item": {
-        "@id": "http://en.wikipedia.org/wiki/Bash_(Unix_shell)",
-        "@type": "ComputerLanguage",
-        "name": "Bash"
-      },
-      "position": 60
     },
     {
       "@type": "ListItem",
@@ -1194,15 +1185,6 @@
     {
       "@type": "ListItem",
       "item": {
-        "@id": "http://en.wikipedia.org/wiki/Common_Intermediate_Language",
-        "@type": "ComputerLanguage",
-        "name": "Common Intermediate Language"
-      },
-      "position": 131
-    },
-    {
-      "@type": "ListItem",
-      "item": {
         "@id": "http://en.wikipedia.org/wiki/Common_Lisp",
         "@type": "ComputerLanguage",
         "name": "Common Lisp"
@@ -1320,15 +1302,6 @@
     {
       "@type": "ListItem",
       "item": {
-        "@id": "http://en.wikipedia.org/wiki/Combined_Programming_Language",
-        "@type": "ComputerLanguage",
-        "name": "CPL"
-      },
-      "position": 145
-    },
-    {
-      "@type": "ListItem",
-      "item": {
         "@id": "http://en.wikipedia.org/wiki/Cryptol",
         "@type": "ComputerLanguage",
         "name": "Cryptol"
@@ -1442,15 +1415,6 @@
         "name": "DASL"
       },
       "position": 158
-    },
-    {
-      "@type": "ListItem",
-      "item": {
-        "@id": "http://en.wikipedia.org/wiki/Distributed_Application_Specification_Language",
-        "@type": "ComputerLanguage",
-        "name": "DASL"
-      },
-      "position": 159
     },
     {
       "@type": "ListItem",
@@ -1734,15 +1698,6 @@
     {
       "@type": "ListItem",
       "item": {
-        "@id": "http://en.wikipedia.org/wiki/Easy_Programming_Language",
-        "@type": "ComputerLanguage",
-        "name": "EPL"
-      },
-      "position": 191
-    },
-    {
-      "@type": "ListItem",
-      "item": {
         "@id": "http://en.wikipedia.org/wiki/Erlang_(programming_language)",
         "@type": "ComputerLanguage",
         "name": "Erlang"
@@ -1955,15 +1910,6 @@
         "name": "Flex"
       },
       "position": 215
-    },
-    {
-      "@type": "ListItem",
-      "item": {
-        "@id": "http://en.wikipedia.org/wiki/BlooP_and_FlooP",
-        "@type": "ComputerLanguage",
-        "name": "FlooP"
-      },
-      "position": 216
     },
     {
       "@type": "ListItem",
@@ -3012,15 +2958,6 @@
     {
       "@type": "ListItem",
       "item": {
-        "@id": "http://en.wikipedia.org/wiki/Korn_shell",
-        "@type": "ComputerLanguage",
-        "name": "ksh"
-      },
-      "position": 333
-    },
-    {
-      "@type": "ListItem",
-      "item": {
         "@id": "http://en.wikipedia.org/wiki/KUKA",
         "@type": "ComputerLanguage",
         "name": "KUKA"
@@ -3395,24 +3332,6 @@
         "name": "Macsyma"
       },
       "position": 375
-    },
-    {
-      "@type": "ListItem",
-      "item": {
-        "@id": "http://en.wikipedia.org/wiki/MAD_(programming_language)",
-        "@type": "ComputerLanguage",
-        "name": "MAD"
-      },
-      "position": 376
-    },
-    {
-      "@type": "ListItem",
-      "item": {
-        "@id": "http://en.wikipedia.org/wiki/MAD_(programming_language)",
-        "@type": "ComputerLanguage",
-        "name": "MAD/I"
-      },
-      "position": 377
     },
     {
       "@type": "ListItem",
@@ -4551,15 +4470,6 @@
     {
       "@type": "ListItem",
       "item": {
-        "@id": "http://en.wikipedia.org/wiki/Hartmann_pipeline",
-        "@type": "ComputerLanguage",
-        "name": "Pipelines"
-      },
-      "position": 504
-    },
-    {
-      "@type": "ListItem",
-      "item": {
         "@id": "http://en.wikipedia.org/wiki/Pizza_(programming_language)",
         "@type": "ComputerLanguage",
         "name": "Pizza"
@@ -4601,15 +4511,6 @@
         "name": "PL/C"
       },
       "position": 509
-    },
-    {
-      "@type": "ListItem",
-      "item": {
-        "@id": "http://en.wikipedia.org/wiki/PL/I",
-        "@type": "ComputerLanguage",
-        "name": "PL/I"
-      },
-      "position": 510
     },
     {
       "@type": "ListItem",
@@ -5096,15 +4997,6 @@
         "name": "ROOP"
       },
       "position": 564
-    },
-    {
-      "@type": "ListItem",
-      "item": {
-        "@id": "http://en.wikipedia.org/wiki/IBM_RPG",
-        "@type": "ComputerLanguage",
-        "name": "RPG"
-      },
-      "position": 565
     },
     {
       "@type": "ListItem",
@@ -5982,15 +5874,6 @@
     {
       "@type": "ListItem",
       "item": {
-        "@id": "http://en.wikipedia.org/wiki/Clarion_(programming_language)",
-        "@type": "ComputerLanguage",
-        "name": "Topspeed"
-      },
-      "position": 663
-    },
-    {
-      "@type": "ListItem",
-      "item": {
         "@id": "http://en.wikipedia.org/wiki/TouchDevelop",
         "@type": "ComputerLanguage",
         "name": "TouchDevelop"
@@ -6239,15 +6122,6 @@
         "name": "Visual J#"
       },
       "position": 691
-    },
-    {
-      "@type": "ListItem",
-      "item": {
-        "@id": "http://en.wikipedia.org/wiki/Visual_J%2B%2B",
-        "@type": "ComputerLanguage",
-        "name": "Visual J++"
-      },
-      "position": 692
     },
     {
       "@type": "ListItem",

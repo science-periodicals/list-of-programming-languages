@@ -3,6 +3,7 @@ var fs = require('fs');
 var url = require('url');
 var ml = require('./ml');
 var cheerio = require('cheerio');
+var uniqBy = require('lodash/uniqBy');
 
 var packageJson = require('../package');
 
@@ -40,24 +41,29 @@ request.get(lplUrl, function(err, resp, body) {
     });
   });
 
-  list.itemListElement = list.itemListElement.concat(ml.map(function(item) {
-    return {
-      "@type": 'ListItem',
-      item: {
-        '@id': item.url,
-        '@type': 'ComputerLanguage',
-        name: item.name
-      }
-    };
-  })).sort(function(a, b) {
-    return a.item.name.localeCompare(b.item.name);
-  }).map(function(itemListElement, i) {
-    return Object.assign(itemListElement, { position: i });
-  });
+  list.itemListElement = uniqBy(
+    list.itemListElement.concat(ml.map(function(item) {
+      return {
+        "@type": 'ListItem',
+        item: {
+          '@id': item.url,
+          '@type': 'ComputerLanguage',
+          name: item.name
+        }
+      };
+    })).sort(function(a, b) {
+      return a.item.name.localeCompare(b.item.name);
+    }).map(function(itemListElement, i) {
+      return Object.assign(itemListElement, { position: i });
+    }),
+    function(itemListElement) {
+      return itemListElement.item['@id'];
+    }
+  );
 
   list.numberOfItems = list.itemListElement.length;
 
-  fs.writeFile('data.jsonld', JSON.stringify(list, null, 2), function(err) {
+  fs.writeFile('./data.jsonld', JSON.stringify(list, null, 2), function(err) {
     if (err) return console.err(err);
   });
 });
