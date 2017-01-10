@@ -6,11 +6,11 @@
   ],
   "inLanguage": "English",
   "description": "The aim of this list of programming languages is to include all notable programming languages in existence, both those in current use and historical ones, in alphabetical order, except for dialects of BASIC and esoteric programming languages.",
-  "version": "2.0.0",
-  "dateModified": "2017-01-10T03:29:18.732Z",
+  "version": "2.0.1",
+  "dateModified": "2017-01-10T17:25:54.921Z",
   "isBasedOnUrl": "http://en.wikipedia.org/wiki/List_of_programming_languages",
   "itemListOrder": "schema:ItemListOrderAscending",
-  "numberOfItems": 718,
+  "numberOfItems": 717,
   "itemListElement": [
     {
       "@type": "ListItem",
@@ -5307,20 +5307,11 @@
     {
       "@type": "ListItem",
       "item": {
-        "@id": "http://en.wikipedia.org/wiki/Shakespeare_Programming_Language",
-        "@type": "ComputerLanguage",
-        "name": "Shakespeare Programming Language"
-      },
-      "position": 600
-    },
-    {
-      "@type": "ListItem",
-      "item": {
         "@id": "http://en.wikipedia.org/wiki/SIGNAL_(programming_language)",
         "@type": "ComputerLanguage",
         "name": "SIGNAL"
       },
-      "position": 601
+      "position": 600
     },
     {
       "@type": "ListItem",
@@ -5329,7 +5320,7 @@
         "@type": "ComputerLanguage",
         "name": "SiMPLE"
       },
-      "position": 602
+      "position": 601
     },
     {
       "@type": "ListItem",
@@ -5338,7 +5329,7 @@
         "@type": "ComputerLanguage",
         "name": "SIMPOL"
       },
-      "position": 603
+      "position": 602
     },
     {
       "@type": "ListItem",
@@ -5347,7 +5338,7 @@
         "@type": "ComputerLanguage",
         "name": "SIMSCRIPT"
       },
-      "position": 604
+      "position": 603
     },
     {
       "@type": "ListItem",
@@ -5356,7 +5347,7 @@
         "@type": "ComputerLanguage",
         "name": "Simula"
       },
-      "position": 605
+      "position": 604
     },
     {
       "@type": "ListItem",
@@ -5365,7 +5356,7 @@
         "@type": "ComputerLanguage",
         "name": "Simulink"
       },
-      "position": 606
+      "position": 605
     },
     {
       "@type": "ListItem",
@@ -5374,7 +5365,7 @@
         "@type": "ComputerLanguage",
         "name": "Singularity"
       },
-      "position": 607
+      "position": 606
     },
     {
       "@type": "ListItem",
@@ -5383,7 +5374,7 @@
         "@type": "ComputerLanguage",
         "name": "SISAL"
       },
-      "position": 608
+      "position": 607
     },
     {
       "@type": "ListItem",
@@ -5392,7 +5383,7 @@
         "@type": "ComputerLanguage",
         "name": "SLIP"
       },
-      "position": 609
+      "position": 608
     },
     {
       "@type": "ListItem",
@@ -5401,7 +5392,7 @@
         "@type": "ComputerLanguage",
         "name": "SMALL"
       },
-      "position": 610
+      "position": 609
     },
     {
       "@type": "ListItem",
@@ -5410,7 +5401,7 @@
         "@type": "ComputerLanguage",
         "name": "Small Basic"
       },
-      "position": 611
+      "position": 610
     },
     {
       "@type": "ListItem",
@@ -5419,7 +5410,7 @@
         "@type": "ComputerLanguage",
         "name": "Smalltalk"
       },
-      "position": 612
+      "position": 611
     },
     {
       "@type": "ListItem",
@@ -5428,7 +5419,7 @@
         "@type": "ComputerLanguage",
         "name": "SML"
       },
-      "position": 613
+      "position": 612
     },
     {
       "@type": "ListItem",
@@ -5437,7 +5428,7 @@
         "@type": "ComputerLanguage",
         "name": "Snap!"
       },
-      "position": 614
+      "position": 613
     },
     {
       "@type": "ListItem",
@@ -5446,7 +5437,7 @@
         "@type": "ComputerLanguage",
         "name": "SNOBOL"
       },
-      "position": 615
+      "position": 614
     },
     {
       "@type": "ListItem",
@@ -5455,7 +5446,7 @@
         "@type": "ComputerLanguage",
         "name": "Snowball"
       },
-      "position": 616
+      "position": 615
     },
     {
       "@type": "ListItem",
@@ -5464,7 +5455,7 @@
         "@type": "ComputerLanguage",
         "name": "SOL"
       },
-      "position": 617
+      "position": 616
     },
     {
       "@type": "ListItem",
@@ -5473,7 +5464,7 @@
         "@type": "ComputerLanguage",
         "name": "SP/k"
       },
-      "position": 618
+      "position": 617
     },
     {
       "@type": "ListItem",
@@ -5482,7 +5473,7 @@
         "@type": "ComputerLanguage",
         "name": "Span"
       },
-      "position": 619
+      "position": 618
     },
     {
       "@type": "ListItem",
@@ -5491,7 +5482,7 @@
         "@type": "ComputerLanguage",
         "name": "SPARK"
       },
-      "position": 620
+      "position": 619
     },
     {
       "@type": "ListItem",
@@ -5500,7 +5491,7 @@
         "@type": "ComputerLanguage",
         "name": "Speedcode"
       },
-      "position": 621
+      "position": 620
     },
     {
       "@type": "ListItem",
@@ -5509,7 +5500,7 @@
         "@type": "ComputerLanguage",
         "name": "SPIN"
       },
-      "position": 622
+      "position": 621
     },
     {
       "@type": "ListItem",
@@ -5518,7 +5509,7 @@
         "@type": "ComputerLanguage",
         "name": "SPITBOL"
       },
-      "position": 623
+      "position": 622
     },
     {
       "@type": "ListItem",
@@ -5527,7 +5518,7 @@
         "@type": "ComputerLanguage",
         "name": "SPS"
       },
-      "position": 624
+      "position": 623
     },
     {
       "@type": "ListItem",
@@ -5536,7 +5527,7 @@
         "@type": "ComputerLanguage",
         "name": "SQL"
       },
-      "position": 625
+      "position": 624
     },
     {
       "@type": "ListItem",
@@ -5545,7 +5536,7 @@
         "@type": "ComputerLanguage",
         "name": "SQR"
       },
-      "position": 626
+      "position": 625
     },
     {
       "@type": "ListItem",
@@ -5554,7 +5545,7 @@
         "@type": "ComputerLanguage",
         "name": "Squeak"
       },
-      "position": 627
+      "position": 626
     },
     {
       "@type": "ListItem",
@@ -5563,7 +5554,7 @@
         "@type": "ComputerLanguage",
         "name": "Squirrel"
       },
-      "position": 628
+      "position": 627
     },
     {
       "@type": "ListItem",
@@ -5572,7 +5563,7 @@
         "@type": "ComputerLanguage",
         "name": "SR"
       },
-      "position": 629
+      "position": 628
     },
     {
       "@type": "ListItem",
@@ -5581,7 +5572,7 @@
         "@type": "ComputerLanguage",
         "name": "Stackless Python"
       },
-      "position": 630
+      "position": 629
     },
     {
       "@type": "ListItem",
@@ -5590,7 +5581,7 @@
         "@type": "ComputerLanguage",
         "name": "Starlogo"
       },
-      "position": 631
+      "position": 630
     },
     {
       "@type": "ListItem",
@@ -5599,7 +5590,7 @@
         "@type": "ComputerLanguage",
         "name": "Stata"
       },
-      "position": 632
+      "position": 631
     },
     {
       "@type": "ListItem",
@@ -5608,7 +5599,7 @@
         "@type": "ComputerLanguage",
         "name": "Stateflow"
       },
-      "position": 633
+      "position": 632
     },
     {
       "@type": "ListItem",
@@ -5617,7 +5608,7 @@
         "@type": "ComputerLanguage",
         "name": "Strand"
       },
-      "position": 634
+      "position": 633
     },
     {
       "@type": "ListItem",
@@ -5626,7 +5617,7 @@
         "@type": "ComputerLanguage",
         "name": "Strongtalk"
       },
-      "position": 635
+      "position": 634
     },
     {
       "@type": "ListItem",
@@ -5635,7 +5626,7 @@
         "@type": "ComputerLanguage",
         "name": "Subtext"
       },
-      "position": 636
+      "position": 635
     },
     {
       "@type": "ListItem",
@@ -5644,7 +5635,7 @@
         "@type": "ComputerLanguage",
         "name": "SuperCollider"
       },
-      "position": 637
+      "position": 636
     },
     {
       "@type": "ListItem",
@@ -5653,7 +5644,7 @@
         "@type": "ComputerLanguage",
         "name": "SuperTalk"
       },
-      "position": 638
+      "position": 637
     },
     {
       "@type": "ListItem",
@@ -5662,7 +5653,7 @@
         "@type": "ComputerLanguage",
         "name": "SVG"
       },
-      "position": 639
+      "position": 638
     },
     {
       "@type": "ListItem",
@@ -5671,7 +5662,7 @@
         "@type": "ComputerLanguage",
         "name": "Swift (Apple programming language)"
       },
-      "position": 640
+      "position": 639
     },
     {
       "@type": "ListItem",
@@ -5680,7 +5671,7 @@
         "@type": "ComputerLanguage",
         "name": "Swift (parallel scripting language)"
       },
-      "position": 641
+      "position": 640
     },
     {
       "@type": "ListItem",
@@ -5689,7 +5680,7 @@
         "@type": "ComputerLanguage",
         "name": "SYMPL"
       },
-      "position": 642
+      "position": 641
     },
     {
       "@type": "ListItem",
@@ -5698,7 +5689,7 @@
         "@type": "ComputerLanguage",
         "name": "SyncCharts"
       },
-      "position": 643
+      "position": 642
     },
     {
       "@type": "ListItem",
@@ -5707,7 +5698,7 @@
         "@type": "ComputerLanguage",
         "name": "SystemVerilog"
       },
-      "position": 644
+      "position": 643
     },
     {
       "@type": "ListItem",
@@ -5716,7 +5707,7 @@
         "@type": "ComputerLanguage",
         "name": "T"
       },
-      "position": 645
+      "position": 644
     },
     {
       "@type": "ListItem",
@@ -5725,7 +5716,7 @@
         "@type": "ComputerLanguage",
         "name": "T-SQL"
       },
-      "position": 646
+      "position": 645
     },
     {
       "@type": "ListItem",
@@ -5734,7 +5725,7 @@
         "@type": "ComputerLanguage",
         "name": "TACL"
       },
-      "position": 647
+      "position": 646
     },
     {
       "@type": "ListItem",
@@ -5743,7 +5734,7 @@
         "@type": "ComputerLanguage",
         "name": "TACPOL"
       },
-      "position": 648
+      "position": 647
     },
     {
       "@type": "ListItem",
@@ -5752,7 +5743,7 @@
         "@type": "ComputerLanguage",
         "name": "TADS"
       },
-      "position": 649
+      "position": 648
     },
     {
       "@type": "ListItem",
@@ -5761,7 +5752,7 @@
         "@type": "ComputerLanguage",
         "name": "TAL"
       },
-      "position": 650
+      "position": 649
     },
     {
       "@type": "ListItem",
@@ -5770,7 +5761,7 @@
         "@type": "ComputerLanguage",
         "name": "Tcl"
       },
-      "position": 651
+      "position": 650
     },
     {
       "@type": "ListItem",
@@ -5779,7 +5770,7 @@
         "@type": "ComputerLanguage",
         "name": "Tea"
       },
-      "position": 652
+      "position": 651
     },
     {
       "@type": "ListItem",
@@ -5788,7 +5779,7 @@
         "@type": "ComputerLanguage",
         "name": "TECO"
       },
-      "position": 653
+      "position": 652
     },
     {
       "@type": "ListItem",
@@ -5797,7 +5788,7 @@
         "@type": "ComputerLanguage",
         "name": "TELCOMP"
       },
-      "position": 654
+      "position": 653
     },
     {
       "@type": "ListItem",
@@ -5806,7 +5797,7 @@
         "@type": "ComputerLanguage",
         "name": "TeX"
       },
-      "position": 655
+      "position": 654
     },
     {
       "@type": "ListItem",
@@ -5815,7 +5806,7 @@
         "@type": "ComputerLanguage",
         "name": "TEX"
       },
-      "position": 656
+      "position": 655
     },
     {
       "@type": "ListItem",
@@ -5824,7 +5815,7 @@
         "@type": "ComputerLanguage",
         "name": "TIE"
       },
-      "position": 657
+      "position": 656
     },
     {
       "@type": "ListItem",
@@ -5833,7 +5824,7 @@
         "@type": "ComputerLanguage",
         "name": "Timber"
       },
-      "position": 658
+      "position": 657
     },
     {
       "@type": "ListItem",
@@ -5842,7 +5833,7 @@
         "@type": "ComputerLanguage",
         "name": "TMG"
       },
-      "position": 659
+      "position": 658
     },
     {
       "@type": "ListItem",
@@ -5851,7 +5842,7 @@
         "@type": "ComputerLanguage",
         "name": "Toi"
       },
-      "position": 660
+      "position": 659
     },
     {
       "@type": "ListItem",
@@ -5860,7 +5851,7 @@
         "@type": "ComputerLanguage",
         "name": "Tom"
       },
-      "position": 661
+      "position": 660
     },
     {
       "@type": "ListItem",
@@ -5869,7 +5860,7 @@
         "@type": "ComputerLanguage",
         "name": "TOM"
       },
-      "position": 662
+      "position": 661
     },
     {
       "@type": "ListItem",
@@ -5878,7 +5869,7 @@
         "@type": "ComputerLanguage",
         "name": "TouchDevelop"
       },
-      "position": 664
+      "position": 663
     },
     {
       "@type": "ListItem",
@@ -5887,7 +5878,7 @@
         "@type": "ComputerLanguage",
         "name": "TPU"
       },
-      "position": 665
+      "position": 664
     },
     {
       "@type": "ListItem",
@@ -5896,7 +5887,7 @@
         "@type": "ComputerLanguage",
         "name": "Trac"
       },
-      "position": 666
+      "position": 665
     },
     {
       "@type": "ListItem",
@@ -5905,7 +5896,7 @@
         "@type": "ComputerLanguage",
         "name": "Transcript"
       },
-      "position": 667
+      "position": 666
     },
     {
       "@type": "ListItem",
@@ -5914,7 +5905,7 @@
         "@type": "ComputerLanguage",
         "name": "TTCN"
       },
-      "position": 668
+      "position": 667
     },
     {
       "@type": "ListItem",
@@ -5923,7 +5914,7 @@
         "@type": "ComputerLanguage",
         "name": "TTM"
       },
-      "position": 669
+      "position": 668
     },
     {
       "@type": "ListItem",
@@ -5932,7 +5923,7 @@
         "@type": "ComputerLanguage",
         "name": "Turbo C++"
       },
-      "position": 670
+      "position": 669
     },
     {
       "@type": "ListItem",
@@ -5941,7 +5932,7 @@
         "@type": "ComputerLanguage",
         "name": "Turing"
       },
-      "position": 671
+      "position": 670
     },
     {
       "@type": "ListItem",
@@ -5950,7 +5941,7 @@
         "@type": "ComputerLanguage",
         "name": "Turtle"
       },
-      "position": 672
+      "position": 671
     },
     {
       "@type": "ListItem",
@@ -5959,7 +5950,7 @@
         "@type": "ComputerLanguage",
         "name": "TUTOR"
       },
-      "position": 673
+      "position": 672
     },
     {
       "@type": "ListItem",
@@ -5968,7 +5959,7 @@
         "@type": "ComputerLanguage",
         "name": "TXL"
       },
-      "position": 674
+      "position": 673
     },
     {
       "@type": "ListItem",
@@ -5977,7 +5968,7 @@
         "@type": "ComputerLanguage",
         "name": "TypeScript"
       },
-      "position": 675
+      "position": 674
     },
     {
       "@type": "ListItem",
@@ -5986,7 +5977,7 @@
         "@type": "ComputerLanguage",
         "name": "Ubercode"
       },
-      "position": 676
+      "position": 675
     },
     {
       "@type": "ListItem",
@@ -5995,7 +5986,7 @@
         "@type": "ComputerLanguage",
         "name": "UCSD Pascal"
       },
-      "position": 677
+      "position": 676
     },
     {
       "@type": "ListItem",
@@ -6004,7 +5995,7 @@
         "@type": "ComputerLanguage",
         "name": "Umple"
       },
-      "position": 678
+      "position": 677
     },
     {
       "@type": "ListItem",
@@ -6013,7 +6004,7 @@
         "@type": "ComputerLanguage",
         "name": "Unicon"
       },
-      "position": 679
+      "position": 678
     },
     {
       "@type": "ListItem",
@@ -6022,7 +6013,7 @@
         "@type": "ComputerLanguage",
         "name": "Uniface"
       },
-      "position": 680
+      "position": 679
     },
     {
       "@type": "ListItem",
@@ -6031,7 +6022,7 @@
         "@type": "ComputerLanguage",
         "name": "UNITY"
       },
-      "position": 681
+      "position": 680
     },
     {
       "@type": "ListItem",
@@ -6040,7 +6031,7 @@
         "@type": "ComputerLanguage",
         "name": "Unix shell"
       },
-      "position": 682
+      "position": 681
     },
     {
       "@type": "ListItem",
@@ -6049,7 +6040,7 @@
         "@type": "ComputerLanguage",
         "name": "UnrealScript"
       },
-      "position": 683
+      "position": 682
     },
     {
       "@type": "ListItem",
@@ -6058,7 +6049,7 @@
         "@type": "ComputerLanguage",
         "name": "Vala"
       },
-      "position": 684
+      "position": 683
     },
     {
       "@type": "ListItem",
@@ -6067,7 +6058,7 @@
         "@type": "ComputerLanguage",
         "name": "Visual Basic"
       },
-      "position": 685
+      "position": 684
     },
     {
       "@type": "ListItem",
@@ -6076,7 +6067,7 @@
         "@type": "ComputerLanguage",
         "name": "Visual Basic .NET"
       },
-      "position": 686
+      "position": 685
     },
     {
       "@type": "ListItem",
@@ -6085,7 +6076,7 @@
         "@type": "ComputerLanguage",
         "name": "Visual DataFlex"
       },
-      "position": 687
+      "position": 686
     },
     {
       "@type": "ListItem",
@@ -6094,7 +6085,7 @@
         "@type": "ComputerLanguage",
         "name": "Visual DialogScript"
       },
-      "position": 688
+      "position": 687
     },
     {
       "@type": "ListItem",
@@ -6103,7 +6094,7 @@
         "@type": "ComputerLanguage",
         "name": "Visual Fortran"
       },
-      "position": 689
+      "position": 688
     },
     {
       "@type": "ListItem",
@@ -6112,7 +6103,7 @@
         "@type": "ComputerLanguage",
         "name": "Visual FoxPro"
       },
-      "position": 690
+      "position": 689
     },
     {
       "@type": "ListItem",
@@ -6121,7 +6112,7 @@
         "@type": "ComputerLanguage",
         "name": "Visual J#"
       },
-      "position": 691
+      "position": 690
     },
     {
       "@type": "ListItem",
@@ -6130,7 +6121,7 @@
         "@type": "ComputerLanguage",
         "name": "Visual Objects"
       },
-      "position": 693
+      "position": 692
     },
     {
       "@type": "ListItem",
@@ -6139,7 +6130,7 @@
         "@type": "ComputerLanguage",
         "name": "Visual Prolog"
       },
-      "position": 694
+      "position": 693
     },
     {
       "@type": "ListItem",
@@ -6148,7 +6139,7 @@
         "@type": "ComputerLanguage",
         "name": "VSXu"
       },
-      "position": 695
+      "position": 694
     },
     {
       "@type": "ListItem",
@@ -6157,7 +6148,7 @@
         "@type": "ComputerLanguage",
         "name": "vvvv"
       },
-      "position": 696
+      "position": 695
     },
     {
       "@type": "ListItem",
@@ -6166,7 +6157,7 @@
         "@type": "ComputerLanguage",
         "name": "WATFIV, WATFOR"
       },
-      "position": 697
+      "position": 696
     },
     {
       "@type": "ListItem",
@@ -6175,7 +6166,7 @@
         "@type": "ComputerLanguage",
         "name": "WebDNA"
       },
-      "position": 698
+      "position": 697
     },
     {
       "@type": "ListItem",
@@ -6184,7 +6175,7 @@
         "@type": "ComputerLanguage",
         "name": "WebQL"
       },
-      "position": 699
+      "position": 698
     },
     {
       "@type": "ListItem",
@@ -6193,7 +6184,7 @@
         "@type": "ComputerLanguage",
         "name": "Whiley"
       },
-      "position": 700
+      "position": 699
     },
     {
       "@type": "ListItem",
@@ -6202,7 +6193,7 @@
         "@type": "ComputerLanguage",
         "name": "Winbatch"
       },
-      "position": 701
+      "position": 700
     },
     {
       "@type": "ListItem",
@@ -6211,7 +6202,7 @@
         "@type": "ComputerLanguage",
         "name": "Windows PowerShell"
       },
-      "position": 702
+      "position": 701
     },
     {
       "@type": "ListItem",
@@ -6220,7 +6211,7 @@
         "@type": "ComputerLanguage",
         "name": "Wolfram Language"
       },
-      "position": 703
+      "position": 702
     },
     {
       "@type": "ListItem",
@@ -6229,7 +6220,7 @@
         "@type": "ComputerLanguage",
         "name": "Wyvern"
       },
-      "position": 704
+      "position": 703
     },
     {
       "@type": "ListItem",
@@ -6238,7 +6229,7 @@
         "@type": "ComputerLanguage",
         "name": "X#"
       },
-      "position": 705
+      "position": 704
     },
     {
       "@type": "ListItem",
@@ -6247,7 +6238,7 @@
         "@type": "ComputerLanguage",
         "name": "X++"
       },
-      "position": 706
+      "position": 705
     },
     {
       "@type": "ListItem",
@@ -6256,7 +6247,7 @@
         "@type": "ComputerLanguage",
         "name": "X10"
       },
-      "position": 707
+      "position": 706
     },
     {
       "@type": "ListItem",
@@ -6265,7 +6256,7 @@
         "@type": "ComputerLanguage",
         "name": "XBL"
       },
-      "position": 708
+      "position": 707
     },
     {
       "@type": "ListItem",
@@ -6274,7 +6265,7 @@
         "@type": "ComputerLanguage",
         "name": "XC"
       },
-      "position": 709
+      "position": 708
     },
     {
       "@type": "ListItem",
@@ -6283,7 +6274,7 @@
         "@type": "ComputerLanguage",
         "name": "xHarbour"
       },
-      "position": 710
+      "position": 709
     },
     {
       "@type": "ListItem",
@@ -6292,7 +6283,7 @@
         "@type": "ComputerLanguage",
         "name": "XL"
       },
-      "position": 711
+      "position": 710
     },
     {
       "@type": "ListItem",
@@ -6301,7 +6292,7 @@
         "@type": "ComputerLanguage",
         "name": "XML"
       },
-      "position": 712
+      "position": 711
     },
     {
       "@type": "ListItem",
@@ -6310,7 +6301,7 @@
         "@type": "ComputerLanguage",
         "name": "XMOS architecture"
       },
-      "position": 713
+      "position": 712
     },
     {
       "@type": "ListItem",
@@ -6319,7 +6310,7 @@
         "@type": "ComputerLanguage",
         "name": "Xojo"
       },
-      "position": 714
+      "position": 713
     },
     {
       "@type": "ListItem",
@@ -6328,7 +6319,7 @@
         "@type": "ComputerLanguage",
         "name": "XOTcl"
       },
-      "position": 715
+      "position": 714
     },
     {
       "@type": "ListItem",
@@ -6337,7 +6328,7 @@
         "@type": "ComputerLanguage",
         "name": "XPath"
       },
-      "position": 716
+      "position": 715
     },
     {
       "@type": "ListItem",
@@ -6346,7 +6337,7 @@
         "@type": "ComputerLanguage",
         "name": "XPL"
       },
-      "position": 717
+      "position": 716
     },
     {
       "@type": "ListItem",
@@ -6355,7 +6346,7 @@
         "@type": "ComputerLanguage",
         "name": "XPL0"
       },
-      "position": 718
+      "position": 717
     },
     {
       "@type": "ListItem",
@@ -6364,7 +6355,7 @@
         "@type": "ComputerLanguage",
         "name": "XQuery"
       },
-      "position": 719
+      "position": 718
     },
     {
       "@type": "ListItem",
@@ -6373,7 +6364,7 @@
         "@type": "ComputerLanguage",
         "name": "XSB"
       },
-      "position": 720
+      "position": 719
     },
     {
       "@type": "ListItem",
@@ -6382,7 +6373,7 @@
         "@type": "ComputerLanguage",
         "name": "XSLT"
       },
-      "position": 721
+      "position": 720
     },
     {
       "@type": "ListItem",
@@ -6391,7 +6382,7 @@
         "@type": "ComputerLanguage",
         "name": "Xtend"
       },
-      "position": 722
+      "position": 721
     },
     {
       "@type": "ListItem",
@@ -6400,7 +6391,7 @@
         "@type": "ComputerLanguage",
         "name": "YAML"
       },
-      "position": 723
+      "position": 722
     },
     {
       "@type": "ListItem",
@@ -6409,7 +6400,7 @@
         "@type": "ComputerLanguage",
         "name": "Yoix"
       },
-      "position": 724
+      "position": 723
     },
     {
       "@type": "ListItem",
@@ -6418,7 +6409,7 @@
         "@type": "ComputerLanguage",
         "name": "Yorick"
       },
-      "position": 725
+      "position": 724
     },
     {
       "@type": "ListItem",
@@ -6427,7 +6418,7 @@
         "@type": "ComputerLanguage",
         "name": "YQL"
       },
-      "position": 726
+      "position": 725
     },
     {
       "@type": "ListItem",
@@ -6436,7 +6427,7 @@
         "@type": "ComputerLanguage",
         "name": "Z notation"
       },
-      "position": 727
+      "position": 726
     },
     {
       "@type": "ListItem",
@@ -6445,7 +6436,7 @@
         "@type": "ComputerLanguage",
         "name": "Zeno"
       },
-      "position": 728
+      "position": 727
     },
     {
       "@type": "ListItem",
@@ -6454,7 +6445,7 @@
         "@type": "ComputerLanguage",
         "name": "ZOPL"
       },
-      "position": 729
+      "position": 728
     },
     {
       "@type": "ListItem",
@@ -6463,7 +6454,7 @@
         "@type": "ComputerLanguage",
         "name": "ZPL"
       },
-      "position": 730
+      "position": 729
     },
     {
       "@type": "ListItem",
@@ -6472,7 +6463,7 @@
         "@type": "ComputerLanguage",
         "name": "Zsh"
       },
-      "position": 731
+      "position": 730
     }
   ]
 }

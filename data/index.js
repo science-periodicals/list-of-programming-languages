@@ -63,7 +63,7 @@ request.get(lplUrl, function(err, resp, body) {
 
   list.numberOfItems = list.itemListElement.length;
 
-  fs.writeFile('./data.jsonld', JSON.stringify(list, null, 2), function(err) {
+  fs.writeFile('./data.json', JSON.stringify(list, null, 2), function(err) {
     if (err) return console.err(err);
   });
 });
