@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "build": "(cd data && node index.js)",
-    "test": "mocha --exit"
+    "test": "mocha --exit",
+    "prepublish": "npm run build",
+    "postversion": "git push && git push --tags"
   },
   "repository": {
     "type": "git",
