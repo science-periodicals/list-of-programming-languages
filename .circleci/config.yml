@@ -1,0 +1,55 @@
+version: 2
+jobs:
+  test:
+    working_directory: ~/list-of-programming-languages
+    docker:
+      - image: circleci/node:dubnium
+    steps:
+      - checkout
+      - run: echo '//registry.npmjs.org/:_authToken='$NPM_PRIVATE_AUTH_TOKEN > $HOME/.npmrc
+      - restore_cache:
+          keys:
+            - v1-node_modules-{{ checksum "package-lock.json" }}
+            - v1-node_modules-
+      - run:
+          command: npm install
+          no_output_timeout: 5m
+      - save_cache:
+          key: v1-node_modules-{{ checksum "package-lock.json" }}
+          paths:
+            - node_modules
+      - run: npm test
+      - persist_to_workspace:
+          root: ~/list-of-programming-languages
+          paths: .
+
+  publish:
+    working_directory: ~/list-of-programming-languages
+    docker:
+      - image: circleci/node:dubnium
+    steps:
+      - attach_workspace:
+          at: ~/list-of-programming-languages
+      - run:
+          name: Authenticate with registry
+          command: echo '//registry.npmjs.org/:_authToken='$NPM_PRIVATE_AUTH_TOKEN > $HOME/.npmrc
+      - run:
+          name: Publish package
+          command: npm publish
+
+workflows:
+  version: 2
+  test-publish:
+    jobs:
+      - test:
+          filters:  # required since `publish` has tag filters AND requires `test`
+            tags:
+              only: /.*/
+      - publish:
+          requires:
+            - test
+          filters:
+            branches:
+              ignore: /.*/
+            tags:
+              only: /^v.*/

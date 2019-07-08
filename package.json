@@ -5,11 +5,11 @@
   "main": "index.js",
   "scripts": {
     "build": "(cd data && node index.js)",
-    "test": "mocha"
+    "test": "mocha --exit"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/scienceai/list-of-programming-languages.git"
+    "url": "https://github.com/science-periodicals/list-of-programming-languages.git"
   },
   "keywords": [
     "programming",
@@ -20,13 +20,13 @@
   "author": "Sebastien Ballesteros",
   "license": "Apache-v2",
   "bugs": {
-    "url": "https://github.com/scienceai/list-of-programming-languages/issues"
+    "url": "https://github.com/science-periodicals/list-of-programming-languages/issues"
   },
-  "homepage": "https://github.com/scienceai/list-of-programming-languages",
+  "homepage": "https://github.com/science-periodicals/list-of-programming-languages",
   "devDependencies": {
     "cheerio": "^0.22.0",
-    "lodash": "^4.17.4",
-    "mocha": "^3.2.0",
-    "request": "^2.79.0"
+    "lodash": "^4.17.11",
+    "mocha": "^6.1.4",
+    "request": "^2.88.0"
   }
 }
