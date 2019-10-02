@@ -2,6 +2,7 @@ var request = require('request');
 var fs = require('fs');
 var url = require('url');
 var ml = require('./ml');
+var ssl = require('./ssl');
 var cheerio = require('cheerio');
 var uniqBy = require('lodash/uniqBy');
 
@@ -28,7 +29,7 @@ request.get(lplUrl, function(err, resp, body) {
     isBasedOnUrl: lplUrl,
     itemListOrder: 'schema:ItemListOrderAscending',
     numberOfItems: 0,
-    itemListElement: []
+    itemListElement: [],
   };
 
   $('h2 ~ .div-col li a').each(function(i) {
@@ -41,8 +42,8 @@ request.get(lplUrl, function(err, resp, body) {
           $a.attr('href')
         ),
         '@type': 'ComputerLanguage',
-        name: $a.text()
-      }
+        name: $a.text(),
+      },
     });
   });
 
@@ -55,8 +56,20 @@ request.get(lplUrl, function(err, resp, body) {
             item: {
               '@id': item.url,
               '@type': 'ComputerLanguage',
-              name: item.name
-            }
+              name: item.name,
+            },
+          };
+        })
+      )
+      .concat(
+        ssl.map(function(item) {
+          return {
+            '@type': 'ListItem',
+            item: {
+              '@id': item.url,
+              '@type': 'ComputerLanguage',
+              name: item.name,
+            },
           };
         })
       )
