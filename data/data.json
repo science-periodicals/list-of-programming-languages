@@ -7,7 +7,7 @@
   "inLanguage": "English",
   "description": "The aim of this list of programming languages is to include all notable programming languages in existence, both those in current use and historical ones, in alphabetical order. Dialects of BASIC, esoteric programming languages, and markup languages are not included. \n",
   "version": "2.0.2",
-  "dateModified": "2019-10-02T00:54:20.641Z",
+  "dateModified": "2019-10-02T01:29:38.012Z",
   "isBasedOnUrl": "http://en.wikipedia.org/wiki/List_of_programming_languages",
   "itemListOrder": "schema:ItemListOrderAscending",
   "numberOfItems": 698,
@@ -15,47 +15,11 @@
     {
       "@type": "ListItem",
       "item": {
-        "@id": "http://en.wikipedia.org/wiki/C_Shell",
-        "@type": "ComputerLanguage",
-        "name": " C Shell (csh)"
-      },
-      "position": 0
-    },
-    {
-      "@type": "ListItem",
-      "item": {
-        "@id": "http://en.wikipedia.org/wiki/Crystal_(programming_language)",
-        "@type": "ComputerLanguage",
-        "name": " Crystal"
-      },
-      "position": 1
-    },
-    {
-      "@type": "ListItem",
-      "item": {
-        "@id": "http://en.wikipedia.org/wiki/Easy_Programming_Language",
-        "@type": "ComputerLanguage",
-        "name": " EPL (Easy Programming Language)"
-      },
-      "position": 2
-    },
-    {
-      "@type": "ListItem",
-      "item": {
-        "@id": "http://en.wikipedia.org/wiki/Eltron_Programming_Language",
-        "@type": "ComputerLanguage",
-        "name": " EPL (Eltron Programming Language)"
-      },
-      "position": 3
-    },
-    {
-      "@type": "ListItem",
-      "item": {
         "@id": "http://en.wikipedia.org/wiki/Formula_language",
         "@type": "ComputerLanguage",
         "name": "@Formula"
       },
-      "position": 4
+      "position": 0
     },
     {
       "@type": "ListItem",
@@ -64,7 +28,7 @@
         "@type": "ComputerLanguage",
         "name": "1C:Enterprise programming language"
       },
-      "position": 5
+      "position": 1
     },
     {
       "@type": "ListItem",
@@ -73,7 +37,7 @@
         "@type": "ComputerLanguage",
         "name": "A-0 System"
       },
-      "position": 6
+      "position": 2
     },
     {
       "@type": "ListItem",
@@ -82,7 +46,7 @@
         "@type": "ComputerLanguage",
         "name": "A# .NET"
       },
-      "position": 7
+      "position": 3
     },
     {
       "@type": "ListItem",
@@ -91,7 +55,7 @@
         "@type": "ComputerLanguage",
         "name": "A+"
       },
-      "position": 8
+      "position": 4
     },
     {
       "@type": "ListItem",
@@ -100,7 +64,7 @@
         "@type": "ComputerLanguage",
         "name": "A++"
       },
-      "position": 9
+      "position": 5
     },
     {
       "@type": "ListItem",
@@ -109,7 +73,7 @@
         "@type": "ComputerLanguage",
         "name": "ABAP"
       },
-      "position": 10
+      "position": 6
     },
     {
       "@type": "ListItem",
@@ -118,7 +82,7 @@
         "@type": "ComputerLanguage",
         "name": "ABC"
       },
-      "position": 11
+      "position": 7
     },
     {
       "@type": "ListItem",
@@ -127,7 +91,7 @@
         "@type": "ComputerLanguage",
         "name": "ABC ALGOL"
       },
-      "position": 12
+      "position": 8
     },
     {
       "@type": "ListItem",
@@ -136,7 +100,7 @@
         "@type": "ComputerLanguage",
         "name": "ACC"
       },
-      "position": 13
+      "position": 9
     },
     {
       "@type": "ListItem",
@@ -145,7 +109,7 @@
         "@type": "ComputerLanguage",
         "name": "Accent"
       },
-      "position": 14
+      "position": 10
     },
     {
       "@type": "ListItem",
@@ -154,7 +118,7 @@
         "@type": "ComputerLanguage",
         "name": "Ace DASL (Distributed Application Specification Language)"
       },
-      "position": 15
+      "position": 11
     },
     {
       "@type": "ListItem",
@@ -163,7 +127,7 @@
         "@type": "ComputerLanguage",
         "name": "Action!"
       },
-      "position": 16
+      "position": 12
     },
     {
       "@type": "ListItem",
@@ -172,7 +136,7 @@
         "@type": "ComputerLanguage",
         "name": "ActionScript"
       },
-      "position": 17
+      "position": 13
     },
     {
       "@type": "ListItem",
@@ -181,7 +145,7 @@
         "@type": "ComputerLanguage",
         "name": "Active Server Pages"
       },
-      "position": 18
+      "position": 14
     },
     {
       "@type": "ListItem",
@@ -190,7 +154,7 @@
         "@type": "ComputerLanguage",
         "name": "Actor"
       },
-      "position": 19
+      "position": 15
     },
     {
       "@type": "ListItem",
@@ -199,7 +163,7 @@
         "@type": "ComputerLanguage",
         "name": "Ada"
       },
-      "position": 20
+      "position": 16
     },
     {
       "@type": "ListItem",
@@ -208,7 +172,7 @@
         "@type": "ComputerLanguage",
         "name": "Adenine"
       },
-      "position": 21
+      "position": 17
     },
     {
       "@type": "ListItem",
@@ -217,7 +181,7 @@
         "@type": "ComputerLanguage",
         "name": "Agda"
       },
-      "position": 22
+      "position": 18
     },
     {
       "@type": "ListItem",
@@ -226,7 +190,7 @@
         "@type": "ComputerLanguage",
         "name": "Agilent VEE"
       },
-      "position": 23
+      "position": 19
     },
     {
       "@type": "ListItem",
@@ -235,7 +199,7 @@
         "@type": "ComputerLanguage",
         "name": "Agora"
       },
-      "position": 24
+      "position": 20
     },
     {
       "@type": "ListItem",
@@ -244,7 +208,7 @@
         "@type": "ComputerLanguage",
         "name": "AIMMS"
       },
-      "position": 25
+      "position": 21
     },
     {
       "@type": "ListItem",
@@ -253,7 +217,7 @@
         "@type": "ComputerLanguage",
         "name": "Aldor"
       },
-      "position": 26
+      "position": 22
     },
     {
       "@type": "ListItem",
@@ -262,7 +226,7 @@
         "@type": "ComputerLanguage",
         "name": "Alef"
       },
-      "position": 27
+      "position": 23
     },
     {
       "@type": "ListItem",
@@ -271,7 +235,7 @@
         "@type": "ComputerLanguage",
         "name": "ALF"
       },
-      "position": 28
+      "position": 24
     },
     {
       "@type": "ListItem",
@@ -280,7 +244,7 @@
         "@type": "ComputerLanguage",
         "name": "ALGOL 58"
       },
-      "position": 29
+      "position": 25
     },
     {
       "@type": "ListItem",
@@ -289,7 +253,7 @@
         "@type": "ComputerLanguage",
         "name": "ALGOL 60"
       },
-      "position": 30
+      "position": 26
     },
     {
       "@type": "ListItem",
@@ -298,7 +262,7 @@
         "@type": "ComputerLanguage",
         "name": "ALGOL 68"
       },
-      "position": 31
+      "position": 27
     },
     {
       "@type": "ListItem",
@@ -307,7 +271,7 @@
         "@type": "ComputerLanguage",
         "name": "ALGOL W"
       },
-      "position": 32
+      "position": 28
     },
     {
       "@type": "ListItem",
@@ -316,7 +280,7 @@
         "@type": "ComputerLanguage",
         "name": "Alice"
       },
-      "position": 33
+      "position": 29
     },
     {
       "@type": "ListItem",
@@ -325,7 +289,7 @@
         "@type": "ComputerLanguage",
         "name": "Alma-0"
       },
-      "position": 34
+      "position": 30
     },
     {
       "@type": "ListItem",
@@ -334,7 +298,7 @@
         "@type": "ComputerLanguage",
         "name": "AmbientTalk"
       },
-      "position": 35
+      "position": 31
     },
     {
       "@type": "ListItem",
@@ -343,7 +307,7 @@
         "@type": "ComputerLanguage",
         "name": "Amiga E"
       },
-      "position": 36
+      "position": 32
     },
     {
       "@type": "ListItem",
@@ -352,7 +316,7 @@
         "@type": "ComputerLanguage",
         "name": "AMOS"
       },
-      "position": 37
+      "position": 33
     },
     {
       "@type": "ListItem",
@@ -361,7 +325,7 @@
         "@type": "ComputerLanguage",
         "name": "AMPL"
       },
-      "position": 38
+      "position": 34
     },
     {
       "@type": "ListItem",
@@ -370,7 +334,7 @@
         "@type": "ComputerLanguage",
         "name": "AngelScript"
       },
-      "position": 39
+      "position": 35
     },
     {
       "@type": "ListItem",
@@ -379,7 +343,7 @@
         "@type": "ComputerLanguage",
         "name": "Apex"
       },
-      "position": 40
+      "position": 36
     },
     {
       "@type": "ListItem",
@@ -388,7 +352,7 @@
         "@type": "ComputerLanguage",
         "name": "APL"
       },
-      "position": 41
+      "position": 37
     },
     {
       "@type": "ListItem",
@@ -397,7 +361,7 @@
         "@type": "ComputerLanguage",
         "name": "App Inventor for Android's visual block language"
       },
-      "position": 42
+      "position": 38
     },
     {
       "@type": "ListItem",
@@ -406,7 +370,7 @@
         "@type": "ComputerLanguage",
         "name": "AppleScript"
       },
-      "position": 43
+      "position": 39
     },
     {
       "@type": "ListItem",
@@ -415,7 +379,7 @@
         "@type": "ComputerLanguage",
         "name": "APT"
       },
-      "position": 44
+      "position": 40
     },
     {
       "@type": "ListItem",
@@ -424,7 +388,7 @@
         "@type": "ComputerLanguage",
         "name": "Arc"
       },
-      "position": 45
+      "position": 41
     },
     {
       "@type": "ListItem",
@@ -433,7 +397,7 @@
         "@type": "ComputerLanguage",
         "name": "ARexx"
       },
-      "position": 46
+      "position": 42
     },
     {
       "@type": "ListItem",
@@ -442,7 +406,7 @@
         "@type": "ComputerLanguage",
         "name": "Argus"
       },
-      "position": 47
+      "position": 43
     },
     {
       "@type": "ListItem",
@@ -451,7 +415,7 @@
         "@type": "ComputerLanguage",
         "name": "Assembly language"
       },
-      "position": 48
+      "position": 44
     },
     {
       "@type": "ListItem",
@@ -460,7 +424,7 @@
         "@type": "ComputerLanguage",
         "name": "AutoHotkey"
       },
-      "position": 49
+      "position": 45
     },
     {
       "@type": "ListItem",
@@ -469,7 +433,7 @@
         "@type": "ComputerLanguage",
         "name": "AutoLISP / Visual LISP"
       },
-      "position": 50
+      "position": 46
     },
     {
       "@type": "ListItem",
@@ -478,7 +442,7 @@
         "@type": "ComputerLanguage",
         "name": "Averest"
       },
-      "position": 51
+      "position": 47
     },
     {
       "@type": "ListItem",
@@ -487,7 +451,7 @@
         "@type": "ComputerLanguage",
         "name": "AWK"
       },
-      "position": 52
+      "position": 48
     },
     {
       "@type": "ListItem",
@@ -496,7 +460,7 @@
         "@type": "ComputerLanguage",
         "name": "Axum"
       },
-      "position": 53
+      "position": 49
     },
     {
       "@type": "ListItem",
@@ -505,7 +469,7 @@
         "@type": "ComputerLanguage",
         "name": "B"
       },
-      "position": 54
+      "position": 50
     },
     {
       "@type": "ListItem",
@@ -514,7 +478,7 @@
         "@type": "ComputerLanguage",
         "name": "Babbage"
       },
-      "position": 55
+      "position": 51
     },
     {
       "@type": "ListItem",
@@ -523,7 +487,7 @@
         "@type": "ComputerLanguage",
         "name": "Ballerina"
       },
-      "position": 56
+      "position": 52
     },
     {
       "@type": "ListItem",
@@ -532,7 +496,7 @@
         "@type": "ComputerLanguage",
         "name": "bash"
       },
-      "position": 57
+      "position": 53
     },
     {
       "@type": "ListItem",
@@ -541,7 +505,7 @@
         "@type": "ComputerLanguage",
         "name": "BASIC"
       },
-      "position": 59
+      "position": 55
     },
     {
       "@type": "ListItem",
@@ -550,7 +514,7 @@
         "@type": "ComputerLanguage",
         "name": "Batch file (Windows/MS-DOS)"
       },
-      "position": 60
+      "position": 56
     },
     {
       "@type": "ListItem",
@@ -559,7 +523,7 @@
         "@type": "ComputerLanguage",
         "name": "bc"
       },
-      "position": 61
+      "position": 57
     },
     {
       "@type": "ListItem",
@@ -568,7 +532,7 @@
         "@type": "ComputerLanguage",
         "name": "BCPL"
       },
-      "position": 62
+      "position": 58
     },
     {
       "@type": "ListItem",
@@ -577,7 +541,7 @@
         "@type": "ComputerLanguage",
         "name": "BeanShell"
       },
-      "position": 63
+      "position": 59
     },
     {
       "@type": "ListItem",
@@ -586,7 +550,7 @@
         "@type": "ComputerLanguage",
         "name": "Bertrand"
       },
-      "position": 64
+      "position": 60
     },
     {
       "@type": "ListItem",
@@ -595,7 +559,7 @@
         "@type": "ComputerLanguage",
         "name": "BETA"
       },
-      "position": 65
+      "position": 61
     },
     {
       "@type": "ListItem",
@@ -604,7 +568,7 @@
         "@type": "ComputerLanguage",
         "name": "BLISS"
       },
-      "position": 66
+      "position": 62
     },
     {
       "@type": "ListItem",
@@ -613,7 +577,7 @@
         "@type": "ComputerLanguage",
         "name": "Blockly"
       },
-      "position": 67
+      "position": 63
     },
     {
       "@type": "ListItem",
@@ -622,7 +586,7 @@
         "@type": "ComputerLanguage",
         "name": "BlooP"
       },
-      "position": 68
+      "position": 64
     },
     {
       "@type": "ListItem",
@@ -631,7 +595,7 @@
         "@type": "ComputerLanguage",
         "name": "Boo"
       },
-      "position": 69
+      "position": 65
     },
     {
       "@type": "ListItem",
@@ -640,7 +604,7 @@
         "@type": "ComputerLanguage",
         "name": "Boomerang"
       },
-      "position": 70
+      "position": 66
     },
     {
       "@type": "ListItem",
@@ -649,7 +613,7 @@
         "@type": "ComputerLanguage",
         "name": "Bourne shell"
       },
-      "position": 71
+      "position": 67
     },
     {
       "@type": "ListItem",
@@ -658,7 +622,16 @@
         "@type": "ComputerLanguage",
         "name": "C"
       },
-      "position": 72
+      "position": 68
+    },
+    {
+      "@type": "ListItem",
+      "item": {
+        "@id": "http://en.wikipedia.org/wiki/C_Shell",
+        "@type": "ComputerLanguage",
+        "name": "C Shell (csh)"
+      },
+      "position": 69
     },
     {
       "@type": "ListItem",
@@ -667,7 +640,7 @@
         "@type": "ComputerLanguage",
         "name": "C--"
       },
-      "position": 73
+      "position": 70
     },
     {
       "@type": "ListItem",
@@ -676,7 +649,7 @@
         "@type": "ComputerLanguage",
         "name": "C*"
       },
-      "position": 74
+      "position": 71
     },
     {
       "@type": "ListItem",
@@ -685,7 +658,7 @@
         "@type": "ComputerLanguage",
         "name": "C/AL"
       },
-      "position": 75
+      "position": 72
     },
     {
       "@type": "ListItem",
@@ -694,7 +667,7 @@
         "@type": "ComputerLanguage",
         "name": "C#"
       },
-      "position": 76
+      "position": 73
     },
     {
       "@type": "ListItem",
@@ -703,7 +676,7 @@
         "@type": "ComputerLanguage",
         "name": "C++"
       },
-      "position": 77
+      "position": 74
     },
     {
       "@type": "ListItem",
@@ -712,7 +685,7 @@
         "@type": "ComputerLanguage",
         "name": "Caché ObjectScript"
       },
-      "position": 78
+      "position": 75
     },
     {
       "@type": "ListItem",
@@ -721,7 +694,7 @@
         "@type": "ComputerLanguage",
         "name": "Caml"
       },
-      "position": 79
+      "position": 76
     },
     {
       "@type": "ListItem",
@@ -730,7 +703,7 @@
         "@type": "ComputerLanguage",
         "name": "Cayenne"
       },
-      "position": 80
+      "position": 77
     },
     {
       "@type": "ListItem",
@@ -739,7 +712,7 @@
         "@type": "ComputerLanguage",
         "name": "CDuce"
       },
-      "position": 81
+      "position": 78
     },
     {
       "@type": "ListItem",
@@ -748,7 +721,7 @@
         "@type": "ComputerLanguage",
         "name": "Cecil"
       },
-      "position": 82
+      "position": 79
     },
     {
       "@type": "ListItem",
@@ -757,7 +730,7 @@
         "@type": "ComputerLanguage",
         "name": "Cesil"
       },
-      "position": 83
+      "position": 80
     },
     {
       "@type": "ListItem",
@@ -766,7 +739,7 @@
         "@type": "ComputerLanguage",
         "name": "Céu"
       },
-      "position": 84
+      "position": 81
     },
     {
       "@type": "ListItem",
@@ -775,7 +748,7 @@
         "@type": "ComputerLanguage",
         "name": "Ceylon"
       },
-      "position": 85
+      "position": 82
     },
     {
       "@type": "ListItem",
@@ -784,7 +757,7 @@
         "@type": "ComputerLanguage",
         "name": "CFEngine"
       },
-      "position": 86
+      "position": 83
     },
     {
       "@type": "ListItem",
@@ -793,7 +766,7 @@
         "@type": "ComputerLanguage",
         "name": "Cg"
       },
-      "position": 87
+      "position": 84
     },
     {
       "@type": "ListItem",
@@ -802,7 +775,7 @@
         "@type": "ComputerLanguage",
         "name": "Ch"
       },
-      "position": 88
+      "position": 85
     },
     {
       "@type": "ListItem",
@@ -811,7 +784,7 @@
         "@type": "ComputerLanguage",
         "name": "Chapel"
       },
-      "position": 89
+      "position": 86
     },
     {
       "@type": "ListItem",
@@ -820,7 +793,7 @@
         "@type": "ComputerLanguage",
         "name": "Charity"
       },
-      "position": 90
+      "position": 87
     },
     {
       "@type": "ListItem",
@@ -829,7 +802,7 @@
         "@type": "ComputerLanguage",
         "name": "Charm"
       },
-      "position": 91
+      "position": 88
     },
     {
       "@type": "ListItem",
@@ -838,7 +811,7 @@
         "@type": "ComputerLanguage",
         "name": "CHILL"
       },
-      "position": 92
+      "position": 89
     },
     {
       "@type": "ListItem",
@@ -847,7 +820,7 @@
         "@type": "ComputerLanguage",
         "name": "CHIP-8"
       },
-      "position": 93
+      "position": 90
     },
     {
       "@type": "ListItem",
@@ -856,7 +829,7 @@
         "@type": "ComputerLanguage",
         "name": "chomski"
       },
-      "position": 94
+      "position": 91
     },
     {
       "@type": "ListItem",
@@ -865,7 +838,7 @@
         "@type": "ComputerLanguage",
         "name": "ChucK"
       },
-      "position": 95
+      "position": 92
     },
     {
       "@type": "ListItem",
@@ -874,7 +847,7 @@
         "@type": "ComputerLanguage",
         "name": "Cilk"
       },
-      "position": 96
+      "position": 93
     },
     {
       "@type": "ListItem",
@@ -883,7 +856,7 @@
         "@type": "ComputerLanguage",
         "name": "Citrine"
       },
-      "position": 97
+      "position": 94
     },
     {
       "@type": "ListItem",
@@ -892,7 +865,7 @@
         "@type": "ComputerLanguage",
         "name": "CL"
       },
-      "position": 98
+      "position": 95
     },
     {
       "@type": "ListItem",
@@ -901,7 +874,7 @@
         "@type": "ComputerLanguage",
         "name": "Claire"
       },
-      "position": 99
+      "position": 96
     },
     {
       "@type": "ListItem",
@@ -910,7 +883,7 @@
         "@type": "ComputerLanguage",
         "name": "Clarion"
       },
-      "position": 100
+      "position": 97
     },
     {
       "@type": "ListItem",
@@ -919,7 +892,7 @@
         "@type": "ComputerLanguage",
         "name": "Clean"
       },
-      "position": 101
+      "position": 98
     },
     {
       "@type": "ListItem",
@@ -928,7 +901,7 @@
         "@type": "ComputerLanguage",
         "name": "Clipper"
       },
-      "position": 102
+      "position": 99
     },
     {
       "@type": "ListItem",
@@ -937,7 +910,7 @@
         "@type": "ComputerLanguage",
         "name": "CLIPS"
       },
-      "position": 103
+      "position": 100
     },
     {
       "@type": "ListItem",
@@ -946,7 +919,7 @@
         "@type": "ComputerLanguage",
         "name": "CLIST"
       },
-      "position": 104
+      "position": 101
     },
     {
       "@type": "ListItem",
@@ -955,7 +928,7 @@
         "@type": "ComputerLanguage",
         "name": "Clojure"
       },
-      "position": 105
+      "position": 102
     },
     {
       "@type": "ListItem",
@@ -964,7 +937,7 @@
         "@type": "ComputerLanguage",
         "name": "CLU"
       },
-      "position": 106
+      "position": 103
     },
     {
       "@type": "ListItem",
@@ -973,7 +946,7 @@
         "@type": "ComputerLanguage",
         "name": "CMS EXEC"
       },
-      "position": 107
+      "position": 104
     },
     {
       "@type": "ListItem",
@@ -982,7 +955,7 @@
         "@type": "ComputerLanguage",
         "name": "CMS-2"
       },
-      "position": 108
+      "position": 105
     },
     {
       "@type": "ListItem",
@@ -991,7 +964,7 @@
         "@type": "ComputerLanguage",
         "name": "COBOL"
       },
-      "position": 109
+      "position": 106
     },
     {
       "@type": "ListItem",
@@ -1000,7 +973,7 @@
         "@type": "ComputerLanguage",
         "name": "CobolScript"
       },
-      "position": 110
+      "position": 107
     },
     {
       "@type": "ListItem",
@@ -1009,7 +982,7 @@
         "@type": "ComputerLanguage",
         "name": "Cobra"
       },
-      "position": 111
+      "position": 108
     },
     {
       "@type": "ListItem",
@@ -1018,7 +991,7 @@
         "@type": "ComputerLanguage",
         "name": "CoffeeScript"
       },
-      "position": 112
+      "position": 109
     },
     {
       "@type": "ListItem",
@@ -1027,7 +1000,7 @@
         "@type": "ComputerLanguage",
         "name": "ColdFusion"
       },
-      "position": 113
+      "position": 110
     },
     {
       "@type": "ListItem",
@@ -1036,7 +1009,7 @@
         "@type": "ComputerLanguage",
         "name": "COMAL"
       },
-      "position": 114
+      "position": 111
     },
     {
       "@type": "ListItem",
@@ -1045,7 +1018,7 @@
         "@type": "ComputerLanguage",
         "name": "Combined Programming Language"
       },
-      "position": 115
+      "position": 112
     },
     {
       "@type": "ListItem",
@@ -1054,7 +1027,7 @@
         "@type": "ComputerLanguage",
         "name": "COMIT"
       },
-      "position": 116
+      "position": 113
     },
     {
       "@type": "ListItem",
@@ -1063,7 +1036,7 @@
         "@type": "ComputerLanguage",
         "name": "Common Intermediate Language"
       },
-      "position": 117
+      "position": 114
     },
     {
       "@type": "ListItem",
@@ -1072,7 +1045,7 @@
         "@type": "ComputerLanguage",
         "name": "Common Lisp"
       },
-      "position": 118
+      "position": 115
     },
     {
       "@type": "ListItem",
@@ -1081,7 +1054,7 @@
         "@type": "ComputerLanguage",
         "name": "COMPASS"
       },
-      "position": 119
+      "position": 116
     },
     {
       "@type": "ListItem",
@@ -1090,7 +1063,7 @@
         "@type": "ComputerLanguage",
         "name": "Component Pascal"
       },
-      "position": 120
+      "position": 117
     },
     {
       "@type": "ListItem",
@@ -1099,7 +1072,7 @@
         "@type": "ComputerLanguage",
         "name": "COMTRAN"
       },
-      "position": 121
+      "position": 118
     },
     {
       "@type": "ListItem",
@@ -1108,7 +1081,7 @@
         "@type": "ComputerLanguage",
         "name": "Constraint Handling Rules"
       },
-      "position": 122
+      "position": 119
     },
     {
       "@type": "ListItem",
@@ -1117,7 +1090,7 @@
         "@type": "ComputerLanguage",
         "name": "Cool"
       },
-      "position": 123
+      "position": 120
     },
     {
       "@type": "ListItem",
@@ -1126,7 +1099,7 @@
         "@type": "ComputerLanguage",
         "name": "Coq"
       },
-      "position": 124
+      "position": 121
     },
     {
       "@type": "ListItem",
@@ -1135,7 +1108,7 @@
         "@type": "ComputerLanguage",
         "name": "Coral 66"
       },
-      "position": 125
+      "position": 122
     },
     {
       "@type": "ListItem",
@@ -1144,7 +1117,7 @@
         "@type": "ComputerLanguage",
         "name": "CorVision"
       },
-      "position": 126
+      "position": 123
     },
     {
       "@type": "ListItem",
@@ -1153,7 +1126,7 @@
         "@type": "ComputerLanguage",
         "name": "COWSEL"
       },
-      "position": 127
+      "position": 124
     },
     {
       "@type": "ListItem",
@@ -1162,7 +1135,7 @@
         "@type": "ComputerLanguage",
         "name": "CPL"
       },
-      "position": 128
+      "position": 125
     },
     {
       "@type": "ListItem",
@@ -1171,7 +1144,16 @@
         "@type": "ComputerLanguage",
         "name": "Cryptol"
       },
-      "position": 129
+      "position": 126
+    },
+    {
+      "@type": "ListItem",
+      "item": {
+        "@id": "http://en.wikipedia.org/wiki/Crystal_(programming_language)",
+        "@type": "ComputerLanguage",
+        "name": "Crystal"
+      },
+      "position": 127
     },
     {
       "@type": "ListItem",
@@ -1180,7 +1162,7 @@
         "@type": "ComputerLanguage",
         "name": "Csound"
       },
-      "position": 130
+      "position": 128
     },
     {
       "@type": "ListItem",
@@ -1189,7 +1171,7 @@
         "@type": "ComputerLanguage",
         "name": "CSP"
       },
-      "position": 131
+      "position": 129
     },
     {
       "@type": "ListItem",
@@ -1198,7 +1180,7 @@
         "@type": "ComputerLanguage",
         "name": "CSS"
       },
-      "position": 132
+      "position": 130
     },
     {
       "@type": "ListItem",
@@ -1207,7 +1189,7 @@
         "@type": "ComputerLanguage",
         "name": "Cuneiform"
       },
-      "position": 133
+      "position": 131
     },
     {
       "@type": "ListItem",
@@ -1216,7 +1198,7 @@
         "@type": "ComputerLanguage",
         "name": "Curl"
       },
-      "position": 134
+      "position": 132
     },
     {
       "@type": "ListItem",
@@ -1225,7 +1207,7 @@
         "@type": "ComputerLanguage",
         "name": "Curry"
       },
-      "position": 135
+      "position": 133
     },
     {
       "@type": "ListItem",
@@ -1234,7 +1216,7 @@
         "@type": "ComputerLanguage",
         "name": "Cybil"
       },
-      "position": 136
+      "position": 134
     },
     {
       "@type": "ListItem",
@@ -1243,7 +1225,7 @@
         "@type": "ComputerLanguage",
         "name": "Cyclone"
       },
-      "position": 137
+      "position": 135
     },
     {
       "@type": "ListItem",
@@ -1252,7 +1234,7 @@
         "@type": "ComputerLanguage",
         "name": "Cython"
       },
-      "position": 138
+      "position": 136
     },
     {
       "@type": "ListItem",
@@ -1261,7 +1243,7 @@
         "@type": "ComputerLanguage",
         "name": "D"
       },
-      "position": 139
+      "position": 137
     },
     {
       "@type": "ListItem",
@@ -1270,7 +1252,7 @@
         "@type": "ComputerLanguage",
         "name": "Dart"
       },
-      "position": 140
+      "position": 138
     },
     {
       "@type": "ListItem",
@@ -1279,7 +1261,7 @@
         "@type": "ComputerLanguage",
         "name": "Darwin"
       },
-      "position": 141
+      "position": 139
     },
     {
       "@type": "ListItem",
@@ -1288,7 +1270,7 @@
         "@type": "ComputerLanguage",
         "name": "DASL"
       },
-      "position": 142
+      "position": 140
     },
     {
       "@type": "ListItem",
@@ -1297,7 +1279,7 @@
         "@type": "ComputerLanguage",
         "name": "DataFlex"
       },
-      "position": 143
+      "position": 141
     },
     {
       "@type": "ListItem",
@@ -1306,7 +1288,7 @@
         "@type": "ComputerLanguage",
         "name": "Datalog"
       },
-      "position": 144
+      "position": 142
     },
     {
       "@type": "ListItem",
@@ -1315,7 +1297,7 @@
         "@type": "ComputerLanguage",
         "name": "DATATRIEVE"
       },
-      "position": 145
+      "position": 143
     },
     {
       "@type": "ListItem",
@@ -1324,7 +1306,7 @@
         "@type": "ComputerLanguage",
         "name": "DAX (Data Analysis Expressions)"
       },
-      "position": 146
+      "position": 144
     },
     {
       "@type": "ListItem",
@@ -1333,7 +1315,7 @@
         "@type": "ComputerLanguage",
         "name": "dBase"
       },
-      "position": 147
+      "position": 145
     },
     {
       "@type": "ListItem",
@@ -1342,7 +1324,7 @@
         "@type": "ComputerLanguage",
         "name": "dc"
       },
-      "position": 148
+      "position": 146
     },
     {
       "@type": "ListItem",
@@ -1351,7 +1333,7 @@
         "@type": "ComputerLanguage",
         "name": "DCL"
       },
-      "position": 149
+      "position": 147
     },
     {
       "@type": "ListItem",
@@ -1360,7 +1342,7 @@
         "@type": "ComputerLanguage",
         "name": "DIBOL"
       },
-      "position": 150
+      "position": 148
     },
     {
       "@type": "ListItem",
@@ -1369,7 +1351,7 @@
         "@type": "ComputerLanguage",
         "name": "DinkC"
       },
-      "position": 151
+      "position": 149
     },
     {
       "@type": "ListItem",
@@ -1378,7 +1360,7 @@
         "@type": "ComputerLanguage",
         "name": "Dog"
       },
-      "position": 152
+      "position": 150
     },
     {
       "@type": "ListItem",
@@ -1387,7 +1369,7 @@
         "@type": "ComputerLanguage",
         "name": "Draco"
       },
-      "position": 153
+      "position": 151
     },
     {
       "@type": "ListItem",
@@ -1396,7 +1378,7 @@
         "@type": "ComputerLanguage",
         "name": "DRAKON"
       },
-      "position": 154
+      "position": 152
     },
     {
       "@type": "ListItem",
@@ -1405,7 +1387,7 @@
         "@type": "ComputerLanguage",
         "name": "Dylan"
       },
-      "position": 155
+      "position": 153
     },
     {
       "@type": "ListItem",
@@ -1414,7 +1396,7 @@
         "@type": "ComputerLanguage",
         "name": "DYNAMO"
       },
-      "position": 156
+      "position": 154
     },
     {
       "@type": "ListItem",
@@ -1423,7 +1405,7 @@
         "@type": "ComputerLanguage",
         "name": "E"
       },
-      "position": 157
+      "position": 155
     },
     {
       "@type": "ListItem",
@@ -1432,7 +1414,7 @@
         "@type": "ComputerLanguage",
         "name": "Ease"
       },
-      "position": 158
+      "position": 156
     },
     {
       "@type": "ListItem",
@@ -1441,7 +1423,7 @@
         "@type": "ComputerLanguage",
         "name": "Easy PL/I"
       },
-      "position": 159
+      "position": 157
     },
     {
       "@type": "ListItem",
@@ -1450,7 +1432,7 @@
         "@type": "ComputerLanguage",
         "name": "EASYTRIEVE PLUS"
       },
-      "position": 160
+      "position": 158
     },
     {
       "@type": "ListItem",
@@ -1459,7 +1441,7 @@
         "@type": "ComputerLanguage",
         "name": "eC"
       },
-      "position": 161
+      "position": 159
     },
     {
       "@type": "ListItem",
@@ -1468,7 +1450,7 @@
         "@type": "ComputerLanguage",
         "name": "ECMAScript"
       },
-      "position": 162
+      "position": 160
     },
     {
       "@type": "ListItem",
@@ -1477,7 +1459,7 @@
         "@type": "ComputerLanguage",
         "name": "Edinburgh IMP"
       },
-      "position": 163
+      "position": 161
     },
     {
       "@type": "ListItem",
@@ -1486,7 +1468,7 @@
         "@type": "ComputerLanguage",
         "name": "EGL"
       },
-      "position": 164
+      "position": 162
     },
     {
       "@type": "ListItem",
@@ -1495,7 +1477,7 @@
         "@type": "ComputerLanguage",
         "name": "Eiffel"
       },
-      "position": 165
+      "position": 163
     },
     {
       "@type": "ListItem",
@@ -1504,7 +1486,7 @@
         "@type": "ComputerLanguage",
         "name": "ELAN"
       },
-      "position": 166
+      "position": 164
     },
     {
       "@type": "ListItem",
@@ -1513,7 +1495,7 @@
         "@type": "ComputerLanguage",
         "name": "Elixir"
       },
-      "position": 167
+      "position": 165
     },
     {
       "@type": "ListItem",
@@ -1522,7 +1504,7 @@
         "@type": "ComputerLanguage",
         "name": "Elm"
       },
-      "position": 168
+      "position": 166
     },
     {
       "@type": "ListItem",
@@ -1531,7 +1513,7 @@
         "@type": "ComputerLanguage",
         "name": "Emacs Lisp"
       },
-      "position": 169
+      "position": 167
     },
     {
       "@type": "ListItem",
@@ -1540,7 +1522,7 @@
         "@type": "ComputerLanguage",
         "name": "Emerald"
       },
-      "position": 170
+      "position": 168
     },
     {
       "@type": "ListItem",
@@ -1548,6 +1530,24 @@
         "@id": "http://en.wikipedia.org/wiki/Epigram_(programming_language)",
         "@type": "ComputerLanguage",
         "name": "Epigram"
+      },
+      "position": 169
+    },
+    {
+      "@type": "ListItem",
+      "item": {
+        "@id": "http://en.wikipedia.org/wiki/Easy_Programming_Language",
+        "@type": "ComputerLanguage",
+        "name": "EPL (Easy Programming Language)"
+      },
+      "position": 170
+    },
+    {
+      "@type": "ListItem",
+      "item": {
+        "@id": "http://en.wikipedia.org/wiki/Eltron_Programming_Language",
+        "@type": "ComputerLanguage",
+        "name": "EPL (Eltron Programming Language)"
       },
       "position": 171
     },
