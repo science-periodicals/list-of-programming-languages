@@ -42,7 +42,7 @@ request.get(lplUrl, function(err, resp, body) {
           $a.attr('href')
         ),
         '@type': 'ComputerLanguage',
-        name: $a.text()
+        name: $a.text().trim()
       }
     });
   });
