@@ -2,6 +2,7 @@ var request = require('request');
 var fs = require('fs');
 var url = require('url');
 var ml = require('./ml');
+var ssl = require('./ssl');
 var cheerio = require('cheerio');
 var uniqBy = require('lodash/uniqBy');
 
@@ -41,7 +42,7 @@ request.get(lplUrl, function(err, resp, body) {
           $a.attr('href')
         ),
         '@type': 'ComputerLanguage',
-        name: $a.text()
+        name: $a.text().trim()
       }
     });
   });
@@ -50,6 +51,18 @@ request.get(lplUrl, function(err, resp, body) {
     list.itemListElement
       .concat(
         ml.map(function(item) {
+          return {
+            '@type': 'ListItem',
+            item: {
+              '@id': item.url,
+              '@type': 'ComputerLanguage',
+              name: item.name
+            }
+          };
+        })
+      )
+      .concat(
+        ssl.map(function(item) {
           return {
             '@type': 'ListItem',
             item: {
