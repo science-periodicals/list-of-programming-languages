@@ -29,7 +29,7 @@ request.get(lplUrl, function(err, resp, body) {
     isBasedOnUrl: lplUrl,
     itemListOrder: 'schema:ItemListOrderAscending',
     numberOfItems: 0,
-    itemListElement: [],
+    itemListElement: []
   };
 
   $('h2 ~ .div-col li a').each(function(i) {
@@ -42,8 +42,8 @@ request.get(lplUrl, function(err, resp, body) {
           $a.attr('href')
         ),
         '@type': 'ComputerLanguage',
-        name: $a.text(),
-      },
+        name: $a.text()
+      }
     });
   });
 
@@ -56,8 +56,8 @@ request.get(lplUrl, function(err, resp, body) {
             item: {
               '@id': item.url,
               '@type': 'ComputerLanguage',
-              name: item.name,
-            },
+              name: item.name
+            }
           };
         })
       )
@@ -68,8 +68,8 @@ request.get(lplUrl, function(err, resp, body) {
             item: {
               '@id': item.url,
               '@type': 'ComputerLanguage',
-              name: item.name,
-            },
+              name: item.name
+            }
           };
         })
       )
